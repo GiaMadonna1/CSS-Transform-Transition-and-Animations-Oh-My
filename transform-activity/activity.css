@@ -1,3 +1,5 @@
 main {
-   transform: skew(23deg, 0deg)
+   transform: skewX(-10deg) rotate(-10deg);
+   display: flex;
+   width: 100%;
 }

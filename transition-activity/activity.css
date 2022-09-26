@@ -4,5 +4,6 @@ button {
 
 button hover {
     background-color: cornflowerblue;
-    transition: 
+    transition-property: cornflowerblue;
+    transition-duration: 2s; 
 }
